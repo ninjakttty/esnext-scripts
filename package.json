@@ -1,7 +1,6 @@
 {
   "name": "@ninjakttty/esnext-scripts",
-  "public": "true",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "Opinionated ESNext application scripts and configurations",
   "main": "index.js",
   "repository": {
