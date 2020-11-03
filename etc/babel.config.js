@@ -15,6 +15,7 @@ module.exports = {
   ],
   plugins: [
     // @babel/preset-stage-1: A formal proposal for the feature.
+    '@babel/plugin-syntax-top-level-await',
     '@babel/plugin-proposal-export-default-from',
     '@babel/plugin-proposal-logical-assignment-operators',
     ['@babel/plugin-proposal-optional-chaining', { loose: false }],
