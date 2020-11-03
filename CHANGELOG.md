@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.2.0](https://github.com/jimzhan/esnext-scripts/compare/v2.1.10...v2.2.0) (2020-11-03)
+
+
+### Features
+
+* **add top level async:** top lvel async ([ad599bb](https://github.com/jimzhan/esnext-scripts/commit/ad599bb2397152ce8642318e92c3888c973744a4))
+
 ### [2.1.13](https://github.com/jimzhan/esnext-scripts/compare/v2.1.10...v2.1.13) (2020-11-03)
 
 ### [2.1.12](https://github.com/jimzhan/esnext-scripts/compare/v2.1.10...v2.1.12) (2020-11-03)
